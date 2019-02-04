@@ -1,0 +1,15 @@
+.btn-adelante{
+    margin-left: 45%;
+}
+
+@font-face{
+    font-family: Exiliaimport;
+    src : url("EXILIA_0.ttf");        
+}
+
+.text{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: Exiliaimport;  
+
+}
